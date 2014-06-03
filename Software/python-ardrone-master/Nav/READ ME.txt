@@ -1,0 +1,3 @@
+demo_nav is.py de file die gerund moet worden.
+de file waar alles in gepoot wordt, heet 'velocity2.txt'
+aanpassen van print statements in arnetwork.py

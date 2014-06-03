@@ -1,0 +1,9 @@
+Key error = 0 geeft aan dat er gezocht wordt in de dictionary naar 0,
+maar dat die niet gevonden wordt. Deze error komt naar boven als de 
+quad opstijgt.
+
+str() zorgt dat de output enigszins leesbaar is (ARnetwork)
+Op de een of andere manier stopt ie er mee als de quad opstijgt. 
+
+Vervangen door een simpel print statement.
+
